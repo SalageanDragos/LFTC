@@ -1,0 +1,8 @@
+let{
+	integer a;
+}
+do{
+		while(a == a) do{
+			a=1;
+		}
+}
